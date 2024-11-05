@@ -7,7 +7,8 @@
     "index.html": "/index.html",
     "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
     "main.f7cb5666.js.map": "/static/js/main.f7cb5666.js.map",
-    "453.ffe8ad65.chunk.js.map": "/static/js/453.ffe8ad65.chunk.js.map"
+    "453.ffe8ad65.chunk.js.map": "/static/js/453.ffe8ad65.chunk.js.map",
+    "Instagram_icon.png": "/static/assets/Instagram_icon.png"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",

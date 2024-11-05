@@ -70,6 +70,7 @@ function App() {
                 <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
                 <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
                 <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
+            <img src={instagram} sizes={"small"}/>
         </Box>
     );
 }
