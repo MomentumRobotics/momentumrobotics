@@ -12,6 +12,7 @@ function App() {
                 <img src={logo} width={"40px"} height={"40px"} />
                 <Button variant={"outlined"}>Home</Button>
                 <Button variant={"contained"}>Info</Button>
+                <button><img src={logo} width={"20px"} height={"15px"}/></button>
             </Stack>
             <Typography variant={"h5"} textAlign={"center"}>Momentum</Typography>
             <Typography variant={"h2"} textAlign={"center"}>Momentum</Typography>
