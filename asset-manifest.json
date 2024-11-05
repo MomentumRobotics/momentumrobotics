@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/momentumrobotics/static/css/main.31d6cfe0.css",
-    "main.js": "/momentumrobotics/static/js/main.9627c253.js",
+    "main.js": "/momentumrobotics/static/js/main.7bbcc8a6.js",
     "static/js/453.ffe8ad65.chunk.js": "/momentumrobotics/static/js/453.ffe8ad65.chunk.js",
+    "static/media/instagram.png": "/momentumrobotics/static/media/instagram.e719d8b29f452a16302d.png",
     "index.html": "/momentumrobotics/index.html",
-    "main.9627c253.js.map": "/momentumrobotics/static/js/main.9627c253.js.map",
+    "main.7bbcc8a6.js.map": "/momentumrobotics/static/js/main.7bbcc8a6.js.map",
     "453.ffe8ad65.chunk.js.map": "/momentumrobotics/static/js/453.ffe8ad65.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.9627c253.js"
+    "static/js/main.7bbcc8a6.js"
   ]
 }
